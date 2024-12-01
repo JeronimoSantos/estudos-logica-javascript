@@ -11,4 +11,4 @@ A **Lógica de Programação** é um conjunto de raciocínios e conceitos que pe
 - Programação Assíncrona
 
 ## Conclusão
-A lógica de programação com JavaScript envolve o uso de conceitos fundamentais como variáveis, estruturas de controle, loops, funções, arrays e objetos para criar soluções eficientes para problemas computacionais. A prática constante de resolver problemas de programação vai fortalecer sua capacidade de aplicar esses conceitos de forma mais fluida e criativa.
+A **lógica de programação** com JavaScript envolve o uso de conceitos fundamentais como **variáveis**, **estruturas de controle**, **loops**, **funções**, **arrays** e **objetos** para criar soluções eficientes para problemas computacionais. A prática constante de resolver problemas de programação vai fortalecer sua capacidade de aplicar esses conceitos de forma mais **fluida** e **criativa**.
